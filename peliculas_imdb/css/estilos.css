@@ -1,0 +1,51 @@
+
+
+.pelicula_card_overview{
+    height: 140px;
+    overflow: hidden;
+}
+
+
+
+.card img{
+    height: 400px;
+    background-size: cover;
+}
+
+#titulo{
+  text-align: center;
+  color: white;
+}
+
+.infoos{
+  font-size: 15px;
+  margin-left: 5px;
+}
+
+#yt{
+  font-size: 19px;
+  margin-left: 15px;
+}
+
+body{
+  background-image: url("https://images.unsplash.com/photo-1584983162722-6b827b369ac6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.boton_trailer{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
+
+.boton_info{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.boton_leerMas{
+  margin-left: 20px;
+}
